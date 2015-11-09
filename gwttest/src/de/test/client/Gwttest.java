@@ -128,7 +128,7 @@ public class Gwttest implements EntryPoint {
 								serverResponseLabel
 										.addStyleName("serverResponseLabelError");
 								serverResponseLabel.setHTML(SERVER_ERROR);
-								dialogBox.center();
+								//dialogBox.center();
 								closeButton.setFocus(true);
 							}
 
